@@ -12,7 +12,6 @@ This flow explains how a System-on-Chip (SoC) moves from specifications to real-
 <img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/2e099dd1-2fe1-4f23-835a-5628d465132a" />
 Source: VSD platform
 
-
 - Chip Modeling (O1):- Define specs in a C model with C-based testbenches for functional verification.
 - RTL Design (O2):– Describe the hardware using RTL (Verilog), covering processors, peripherals, and IPs.
 - SoC Integration (O3):– Combine gate-level netlists, synthesized macros, analog IPs, and GPIOs into a unified SoC.
