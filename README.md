@@ -21,6 +21,7 @@ The end result is silicon chips powering real products like iWatches, Arduino bo
 The following commands are used to instal Yosys in linus terminal environment
 
 ,,,
+
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
