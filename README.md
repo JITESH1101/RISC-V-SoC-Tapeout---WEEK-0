@@ -6,6 +6,12 @@ For First Week, we have an introduction to SoC Design Flow and installation of t
 
 This flow explains how a System-on-Chip (SoC) moves from specifications to real-world applications:
 
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/3fe6f1d6-604d-48ad-abae-9790d20d73d5" />
+
+
+<img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/2e099dd1-2fe1-4f23-835a-5628d465132a" />
+
+
 - Chip Modeling (O1):- Define specs in a C model with C-based testbenches for functional verification.
 - RTL Design (O2):– Describe the hardware using RTL (Verilog), covering processors, peripherals, and IPs.
 - SoC Integration (O3):– Combine gate-level netlists, synthesized macros, analog IPs, and GPIOs into a unified SoC.
@@ -49,6 +55,7 @@ The following pictures attached are the proof of software tool during installati
 
 <img width="1768" height="1292" alt="yosys_installation" src="https://github.com/user-attachments/assets/fe252e8e-1485-445a-8960-74a7543f728e" />
 
+
 <img width="2637" height="1848" alt="YOSYS" src="https://github.com/user-attachments/assets/7a24d851-fcf5-4ebb-8549-47077953e6c4" />
 
 
@@ -67,6 +74,7 @@ The following pictures attached are the proof of software tool during installati
 
 <img width="1711" height="1635" alt="iverilog_installation" src="https://github.com/user-attachments/assets/76661030-de4e-46eb-a02c-603f5c1df1fc" />
 
+
 <img width="1691" height="1016" alt="IVERILOG" src="https://github.com/user-attachments/assets/8acdf69c-f9c4-4b39-a135-de2f06929132" />
 
 # 3)GTKWAVE
@@ -84,7 +92,9 @@ The following pictures attached are the proof of software tool during installati
 
 <img width="1650" height="2404" alt="gtkwave_installation" src="https://github.com/user-attachments/assets/d8d0c6a9-6157-4eed-b7c0-026fe616be22" />
 
+
 <img width="1629" height="1120" alt="GTKWAVE1" src="https://github.com/user-attachments/assets/e36a8907-5957-462f-acdc-b64863f5d668" />
+
 
 <img width="2606" height="1559" alt="GTKWAVE2" src="https://github.com/user-attachments/assets/c3ac303b-0bea-46af-88f4-bcd9ce66f305" />
 
