@@ -100,7 +100,9 @@ The following pictures attached are the proof of software tool during installati
 <img width="2606" height="1559" alt="GTKWAVE2" src="https://github.com/user-attachments/assets/c3ac303b-0bea-46af-88f4-bcd9ce66f305" />
 
 
+# Conclusion
 
+With the successful installation and verification of the necessary toolchain, the objectives for Week 0 are now complete. This setup has provided a practical introduction to the SoC design flow, and I look forward to applying these tools to the design challenges in the upcoming weeks.
 
 
 
