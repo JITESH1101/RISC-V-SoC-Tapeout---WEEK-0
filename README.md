@@ -13,3 +13,6 @@ This flow explains how a System-on-Chip (SoC) moves from specifications to real-
 
 After ASIC synthesis and RTL-to-GDSII (RTL2GDS) flow—which includes floorplanning, placement, clock tree synthesis, routing, and DRC/LVS checks—the final GDSII is sent for fabrication.
 The end result is silicon chips powering real products like iWatches, Arduino boards, TV panels, and AC controllers.
+
+# Tool Installations
+
