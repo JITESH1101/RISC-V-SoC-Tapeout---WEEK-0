@@ -2,7 +2,7 @@
 
 For First Week, we have an introduction to SoC Design Flow and installation of tools like Yosys, iverilog and gtkwave.
 
-#SoC Design Flow Overview
+# SoC Design Flow Overview
 
 This flow explains how a System-on-Chip (SoC) moves from specifications to real-world applications:
 
